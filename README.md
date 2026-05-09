@@ -1,7 +1,7 @@
 # Detecção de procrastinação digital por meio da análise de uso de aplicativos e navegação web
 
 Este projeto tem como objetivo desenvolver uma aplicação para PC capaz de detectar padrões de procrastinação digital a partir da análise do uso de aplicativos e da navegação web.
-A ferramenta é voltada principalmente para estudantes e profissionais que desejam entender melhor seus hábitos de uso do computador e melhorar sua produtividade.
+A ferramenta será voltada principalmente para o meio acadêmico, podendo ser implementada em laboratórios de informática de escolas, universidades e bibliotecas, auxiliando no acompanhamento da produtividade e no incentivo ao uso consciente dos recursos digitais durante atividades de estudo e pesquisa.
 
 ---
 
@@ -19,10 +19,11 @@ A ferramenta é voltada principalmente para estudantes e profissionais que desej
 <h2 id="objetivo"> 🎯 Objetivo</h2>
 
 * Monitorar o uso do computador (aplicativos, tempo de uso, troca de abas/janelas);
-* Identificar padrões de distração ao longo do tempo;
+* Identificar padrões de distração e procrastinação digital durante períodos de estudo;
+* Auxiliar instituições de ensino no acompanhamento do uso adequado dos laboratórios e bibliotecas;
 * Enviar alertas quando o usuário estiver distraído por muito tempo;
 * Sugerir pausas ou bloqueios de aplicativos/sites específicos;
-* Gerar relatórios e gráficos de produtividade, destacando principais distrações.
+* Gerar relatórios e gráficos de produtividade, destacando os principais fatores de distração nos ambientes educacionais.
 
 ---
 
